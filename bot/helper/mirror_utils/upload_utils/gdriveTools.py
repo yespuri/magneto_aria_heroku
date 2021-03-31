@@ -505,6 +505,9 @@ class GoogleDriveHelper:
         content_count = 0
         if USE_TELEGRAPH:
             if response["files"]:
+            content_count = 0
+            self.telegraph_content = []
+            self.path = []
                 msg += f'<h4>{len(response["files"])} Results : {fileName}</h4><br><br>'
                 for file in response.get('files', []):
                     if file.get(
