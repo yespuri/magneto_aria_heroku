@@ -1,12 +1,12 @@
-[![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)](https://youtu.be/Pk_TthHfLeE)
+[![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)]
 
 owner of this repo :- 
-https://github.com/breakdowns
+https://github.com/spe4641
 
 # Slam Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
-i have changed aria.sh file to support it in heroku.
+i have changed aria.sh file to support it on heroku.
 
 
 Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks
