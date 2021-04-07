@@ -1,9 +1,18 @@
 [![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)](https://youtu.be/Pk_TthHfLeE)
 
+owner of this repo :- 
+https://github.com/breakdowns
+
 # Slam Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
-https://heroku.com/deploy
+i have changed aria.sh file to support it in heroku.
+
+
+Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks
+to know how to get them [ link ](https://github.com/spe4641/test-new#getting-google-oauth-api-credential-file)
+
+<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Features supported:
 <details>
@@ -142,9 +151,6 @@ sudo docker run mirrorbot
 
 ## Deploying on Heroku
 
-Give Star & Fork this repo, then upload **token.pickle** to your forks
-
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Bot commands to be set in [@BotFather](https://t.me/BotFather)
 
