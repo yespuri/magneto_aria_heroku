@@ -10,7 +10,8 @@ i have changed aria.sh file to support it in heroku.
 
 
 Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks
-to know how to get them [ link ](https://github.com/spe4641/test-new#getting-google-oauth-api-credential-file)
+
+to know how to get them click on the  #[ link ](https://github.com/spe4641/test-new#getting-google-oauth-api-credential-file)
 
 <p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
