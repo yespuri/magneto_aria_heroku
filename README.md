@@ -1,8 +1,8 @@
 ![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)
 
-# owner of this repo :- AYUSH(https://github.com/spe4641)
+# owner of this repo :- [AYUSH](https://github.com/spe4641)
 
-contact:- AYUSH(https://t.me/request_ayush)
+contact:- [AYUSH](https://t.me/request_ayush)
 
 # Slam Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
