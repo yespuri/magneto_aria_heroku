@@ -156,21 +156,21 @@ sudo docker run mirrorbot
 
 
 ## Bot commands to be set in [@BotFather](https://t.me/BotFather)
-
+ ## commands are changed 
 ```
 mirror - Start Mirroring
-tarmirror - Upload tar (zipped) file
-unzipmirror - Extract files
+tar - Upload tar (zipped) file
+unzi - Extract files
 clone - copy file/folder to drive
 watch - mirror YT-DL support link
-tarwatch - mirror youtube playlist link as tar
+tarw - mirror youtube playlist link as tar
 cancel - Cancel a task
-cancelall - Cancel all tasks
+cnlall - Cancel all tasks
 del - Delete file from Drive
 list - [query] searches files in G-Drive
 status - Get Mirror Status message
 stats - Bot Usage Stats
-help - Get Detailed Help
+hlp - Get Detailed Help
 speedtest - Check Speed of the host
 log - Bot Log [owner only]
 repo - Get the bot repo
