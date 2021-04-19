@@ -1,14 +1,14 @@
 {
     "name": "slam-mirrorbot ",
     "description": "Telegram mirror bot with python",
-    "logo": "https://telegra.ph/file/6507910fd06d18dfaba82.jpg",
+    "logo": "https://telegra.ph/file/511f10824f13e639703e1.jpg",
     "keywords": [
       "bot",
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/breakdowns/slam-mirrorbot",
-    "website": "https://t.me/SlamMirrorSupportGroup",
+    "repository": "https://github.com/ayushteke/python_aria_mirror_bot_HEROKU",
+    "website": "https://t.me/request_ayush",
     "success_url": "https://github.com/breakdowns/slam-mirrorbot/blob/master/README.md",
     "stack": "container",
     "env": {
