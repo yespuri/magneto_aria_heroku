@@ -113,6 +113,7 @@
       },
       "SHORTENER_API": {
         "description": "Fill your shortener api key if you are using shortener.",
+         "value": true
         "required": false
       },
       "BUTTON_THREE_NAME": {
