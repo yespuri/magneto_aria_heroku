@@ -12,7 +12,6 @@ i have changed aria.sh file to support it on heroku.
 ## Deploying on Heroku
 Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks click [here](https://github.com/ayushteke/python_aria_mirror_bot_HEROKU#getting-google-oauth-api-credential-file) for more details
 
-to know how to get them click on the  #[ link ](https://github.com/spe4641/test-new#getting-google-oauth-api-credential-file)
 
 after this click on the below button 👇👇👇👇
 <p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
