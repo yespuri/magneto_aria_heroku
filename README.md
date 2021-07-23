@@ -4,7 +4,7 @@
 
 contact:- [AYUSH](https://t.me/request_ayush)
 
-# Slam Mirror Bot
+# magneto mirrorat bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 i have changed aria.sh file to support it on heroku.
